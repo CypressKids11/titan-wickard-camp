@@ -1,0 +1,70 @@
+body{
+    background-color: gray;
+}
+.Neutralized{
+    color: white;
+}
+.Safe{
+    color: lime;
+}
+.Euclid{
+    color: yellow;
+}
+.Keter{
+    color: red;
+}
+.Thaumiel{
+    color: purple;
+}
+.Apollyon{
+    color: black;
+}
+.Archon{
+    color: orangered;
+}
+.SCP-173{
+    background-color: burlywood;
+    color: yellow;
+}
+.SCP-035{
+    background-color: azure;
+    color: red;
+}
+.SCP-682{
+    background-color: darkolivegreen;
+    color: yellow;
+}
+.SCP-Main{
+    background-color: gray;
+    color: black;
+}
+.SCP{
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    justify-content: center;
+    background-color: gray;
+}
+.Classes{
+    display: flex;
+    flex-direction: column;
+}
+#Info{
+    color: aqua;
+}
+.SCP-173:hover{
+    background-color: red;
+    color: blue;
+}
+.SCP-035:hover{
+    background-color: red;
+    color: blue;
+}
+.SCP-682:hover{
+    background-color: red;
+    color: blue;
+}
+.SCP-Main:hover{
+    background-color: red;
+    color: blue;
+}
